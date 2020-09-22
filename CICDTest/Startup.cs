@@ -32,7 +32,7 @@ namespace CICDTest
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World3!");
+                    await context.Response.WriteAsync("Hello World4!");
                 });
             });
         }
