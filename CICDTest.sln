@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDTest", "CICDTest\CICDTest.csproj", "{A470C8D3-A53A-48D6-8108-D1104D32DDB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DAA156D-E697-4D52-8BE4-92EC1D3DE9EB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitlab-ci.yml = .gitlab-ci.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A470C8D3-A53A-48D6-8108-D1104D32DDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A470C8D3-A53A-48D6-8108-D1104D32DDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A470C8D3-A53A-48D6-8108-D1104D32DDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A470C8D3-A53A-48D6-8108-D1104D32DDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4EDCAF-F1DB-4E47-918D-919715D752DD}
+	EndGlobalSection
+EndGlobal
